@@ -1,0 +1,7 @@
+{
+  "name": "@jmis/frontend-test-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Simonov <palmflip@gmail.com>",
+  "license": "MIT"
+}
